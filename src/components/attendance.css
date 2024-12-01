@@ -191,3 +191,7 @@ h3{
   background-color: white;
   color: purple;
 }
+
+.rightImg:hover{
+    cursor:pointer;
+}

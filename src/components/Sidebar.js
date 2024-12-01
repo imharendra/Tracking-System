@@ -48,7 +48,7 @@ const Sidebar = () => {
           <FaClock className="menu-icon" />
           <span>Timer</span>
         </div>
-        <NavLink to="/attendance" className={`menu-item ${activeItem === 'attendance' ? 'active' : ''}`} 
+        <NavLink to="/" className={`menu-item ${activeItem === 'attendance' ? 'active' : ''}`} 
           onClick={() => handleItemClick('attendance')}>
             <FaUserCheck className="menu-icon" />
             <span>Attendance</span>

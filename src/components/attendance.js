@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./attendance.css";
 import { FaMapMarkerAlt, FaCheckCircle, FaExclamationCircle } from "react-icons/fa";
-import { Link, NavLink } from "react-router-dom";
+import { Link, NavLink, useNavigate } from "react-router-dom";
 
 const Attendance = () => {
   const [data, setData] = useState([]);
@@ -13,6 +13,7 @@ const Attendance = () => {
       .catch((error) => console.error("Error fetching data:", error));
   }, []);
 
+  const navigate = useNavigate();
   return (
     <div className="attendance-container">
       {/* <h1 className="attendance-title">Attendance List</h1> */}
@@ -52,11 +53,11 @@ const Attendance = () => {
                 <div className="location">
                   <div className="left">
                     {/* <FaMapMarkerAlt className="action-icon" title="View Location" /> */}
-                    <img src="leftimg.png" />
+                    <img className="rightImg" src="leftimg.png" />
                   </div>
                   <div className="right">
                     {/* <FaMapMarkerAlt className="action-icon" title="View Location" /> */}
-                    <img src="rightimg.png" />
+                    <img className="rightImg" src="rightimg.png" onClick={()=>navigate("/allmembers")}/>
                   </div>
                 </div>
               </div>
