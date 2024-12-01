@@ -1,0 +1,114 @@
+body{
+    overflow: hidden;
+}
+.sidebar {
+    width: 30%;
+    height: 100vh;
+    background: linear-gradient(180deg, #4e00d7, #3b008c);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+    font-family: 'Arial', sans-serif;
+    /* overflow-x: scroll; */
+    /* text-wrap: wrap; */
+  }
+  
+  .sidebar-header {
+    display: flex;
+    align-items: center;
+    /* padding: 10px; */
+    /* border-bottom: 1px solid rgba(255, 255, 255, 0.2); */
+  }
+  
+  .profile-pic {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-right: 15px;
+  }
+  
+  .user-info h4 {
+    margin: 0;
+    font-size: 1.1rem;
+  }
+  
+  .user-info p {
+    margin: 0;
+    font-size: 0.9rem;
+    opacity: 0.8;
+  }
+  
+  .menu {
+    /* flex-grow: 1; */
+    margin-top: 10px;
+  }
+  
+  .menu-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s;
+  }
+  
+  .menu-item:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  .menu-item.active {
+    background-color: rgba(255, 255, 255, 0.3);
+    /* color: white !important; */
+  }
+  
+  .menu-icon {
+    margin-right: 15px;
+    font-size: 1.2rem;
+  }
+  
+  .sidebar-footer {
+    /* padding: 20px; */
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    /* text-align: center; */
+  }
+  
+  .sidebar-footer .menu-item {
+    /* justify-content: center; */
+    font-size: 0.8rem;
+    padding: 5px 0;
+  }
+  
+  .sidebar-footer p {
+    /* margin-top: 10px; */
+    font-size: 0.8rem;
+    opacity: 0.8;
+  }
+  .sidebar-footer {
+    padding: 5px 0px 0px 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    /* font-size: 0.9rem; */
+  }
+  
+  .sidebar-footer .menu-item {
+    display: flex;
+    padding: 5px 0;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s;
+  }
+  
+  .sidebar-footer .menu-item:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  .sidebar-footer p {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    opacity: 0.8;   
+    /* text-align: center;  */
+  }
+    

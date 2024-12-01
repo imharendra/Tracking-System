@@ -1,0 +1,109 @@
+[
+    {
+      "id": "WSL0001",
+      "name": "Wade Warren",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0002",
+      "name": "Esther Howard",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0003",
+      "name": "Cameron Williamson",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "NOT LOGGED IN YET",
+      "logoutTime": "N/A"
+    },
+    {
+      "id": "WSL0004",
+      "name": "Brooklyn Simmons",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0005",
+      "name": "Savannah Nguyen",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0006",
+      "name": "Leslie Alexander",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0007",
+      "name": "Kathryn Murphy",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0008",
+      "name": "Devon Lane",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0009",
+      "name": "Marvin McKinney",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0010",
+      "name": "Courtney Henry",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0011",
+      "name": "Darlene Robertson",
+      "lastname": "Robertson",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0012",
+      "name": "Ralph Edwards",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0013",
+      "name": "Arlene Gonzalez",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0014",
+      "name": "Eleanor Jenkins",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    },
+    {
+      "id": "WSL0015",
+      "name": "Ervin Howell",
+      "profileImg": "https://via.placeholder.com/150",
+      "loginTime": "09:30 AM",
+      "logoutTime": "06:40 PM"
+    }
+  ]
+  
