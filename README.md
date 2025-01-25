@@ -12,7 +12,5 @@
 ## Project team members : 
 - Harendra Singh
 - Kashish Agrawal
-- Akash Upadhyay 
-- Osheen Pandiya
 - Chandresh 
 
